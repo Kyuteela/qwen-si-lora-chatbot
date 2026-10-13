@@ -1,0 +1,7 @@
+{"instruction": "Apa itu foreign key?", "output": "Foreign key adalah atribut dalam suatu tabel yang merujuk ke primary key tabel lain, sehingga menghubungkan kedua tabel dan menjaga integritas referensial."}
+{"instruction": "Apa itu sequence diagram?", "output": "Sequence diagram menggambarkan urutan pesan atau interaksi antar objek dalam satu skenario tertentu berdasarkan waktu."}
+{"instruction": "Apa itu flowchart?", "output": "Flowchart adalah diagram yang menggambarkan alur langkah-langkah proses atau algoritma menggunakan simbol-simbol standar yang dihubungkan dengan panah."}
+{"instruction": "Apa itu SDLC?", "output": "SDLC (System Development Life Cycle) adalah siklus pengembangan sistem yang terdiri dari tahap perencanaan, analisis, perancangan, implementasi, pengujian, dan pemeliharaan sistem."}
+{"instruction": "Apa itu use case diagram?", "output": "Use case diagram menggambarkan interaksi antara aktor (pengguna atau sistem lain) dengan fungsi-fungsi yang disediakan sistem, sehingga menunjukkan kebutuhan fungsional secara garis besar."}
+{"instruction": "Apa itu data warehouse?", "output": "Data warehouse adalah penyimpanan data terpusat yang mengintegrasikan data dari berbagai sumber dan disusun untuk keperluan analisis serta pelaporan."}
+{"instruction": "Apa itu SCM?", "output": "SCM (Supply Chain Management) adalah pengelolaan aliran barang, informasi, dan keuangan dari pemasok hingga ke pelanggan agar rantai pasok berjalan efisien."}
